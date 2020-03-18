@@ -49,15 +49,19 @@
 ]]></content>
   </entry>
   <entry>
-    <title>我的第一篇博客</title>
-    <url>/2020/03/18/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
-    <content><![CDATA[<hr>
-<p>title: 我的第一篇博客<br>date: 2020-01-18 19:44:39<br>tags:feeling,study</p>
-<pre><code>这是我的第一篇博客，经历了重重劫难，终于成功了！</code></pre><a id="more"></a>
+    <title>blog</title>
+    <url>/2020/01/28/blog/</url>
+    <content><![CDATA[<p>这是我的第一篇博客，经历了重重劫难，终于成功了！</p>
 
-<p>​    在这里，我要感谢 @Line’s Blog 给出的教程对我的帮助，我是按照他的教程一步一步搭建起来的，感谢。</p>
+<a id="more"></a>
+
+<p>​在这里，我要感谢 @Line&#39;s Blog 给出的教程对我的帮助，我是按照他的教程一步一步搭建起来的，感谢。</p>
+
 <p>此外，这是我的一个学习更新地方，我希望我能将这个博客一直更新下去，坚持下去。</p>
 ]]></content>
+      <tags>
+        <tag>study</tag>
+      </tags>
   </entry>
   <entry>
     <title>Hello World</title>
